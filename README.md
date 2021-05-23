@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi I'm Kartik <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**VKartik07/VKartik07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on projects related to Flutter and Dash
+- 🌱 I’m currently learning Flutter and Flask
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
+![Fenil Jain's github stats](https://github-readme-stats.vercel.app/api?username=VKartik07&theme=great-gatsby&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Technologies
+![](https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=41cd52)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VKartik07&theme=great-gatsby&show_icons=true)](https://github.com/feniljain/github-readme-stats)
+
+### Get in touch
+
+- [Twitter](https://twitter.com/VKartik07)
+- [LinkedIn](www.linkedin.com/in/v-kartik)
