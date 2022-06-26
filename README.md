@@ -14,4 +14,4 @@
 ### Get in touch
 
 - [Twitter](https://twitter.com/VKartik15)
-- [LinkedIn](https://linkedin.com/in/v-kartik)
+- [LinkedIn](https://twitter.com/V_Kartik07)
